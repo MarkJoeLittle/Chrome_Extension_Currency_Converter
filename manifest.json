@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Currency Converter",
+  "version": "1.0",
+  "description": "A simple currency converter using a real-time exchange rate API.",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "coins.png"
+  }
+}
